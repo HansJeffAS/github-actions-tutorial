@@ -29,5 +29,5 @@ func Sequence(length int) ([]string, error) {
 		}
 	}
 
-	return seq, nil
+	return nil
 }
